@@ -1,0 +1,14 @@
+{
+  "name": "Warp Token",
+  "website": "https://warpgaming.io",
+  "description": "A great stable token and infra on Base chain",
+  "explorer": "https://basescan.org/token/0x1dd264855c7DE0E2fe2cDd6e82bcC71Bd86c4fe9",
+  "type": "ERC20",
+  "symbol": "WRP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x1Dd264855c7DE0E2fe2cDd6e82bcC71Bd86c4fe9",
+  "links": [
+    { "name": "twitter", "url": "https://twitter.com/WarpGameCHAIN" }
+  ]
+}
