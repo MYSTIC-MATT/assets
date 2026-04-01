@@ -1,0 +1,19 @@
+{
+  "name": "Warp",
+  "website": "https://www.warpgaming.io",
+  "description": "Warp is a chain-agnostic game publishing and infrastructure platform providing distribution and monetization rails for the $300B gaming market.",
+  "explorer": "https://basescan.org/token/0x1dd264855c7DE0E2fe2cDd6e82bcC71Bd86c4fe9",
+  "type": "ERC20",
+  "symbol": "WRP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x1dd264855c7DE0E2fe2cDd6e82bcC71Bd86c4fe9",
+  "tags": ["gaming", "gamefi"],
+  "links": [
+    { "name": "twitter", "url": "https://twitter.com/WarpGameCHAIN" },
+    { "name": "discord", "url": "https://discord.com/invite/warpchain" },
+    { "name": "telegram", "url": "https://t.me/nitro_dome" },
+    { "name": "github", "url": "https://github.com/NitroDome/warp_token" },
+    { "name": "youtube", "url": "https://www.youtube.com/@WarpGameChain" }
+  ]
+}
